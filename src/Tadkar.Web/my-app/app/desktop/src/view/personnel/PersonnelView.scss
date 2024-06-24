@@ -1,0 +1,21 @@
+.personnelview .fa-plus:before {
+   color: #0094ff !important;
+}
+.personnelview .fa-edit:before {
+   color: #ffd800 !important;
+}
+.personnelview .fa-trash:before {
+   color: #f91010 !important;
+}
+.personnelview .x-gridcolumn {
+   font-size: 15px;
+   direction: rtl;
+   font-weight: bold;
+}
+.personnelview .x-gridcolumn > .x-header-el {
+   font-size: 15px !important;
+}
+.personnelview .x-gridcell {
+   text-align: right;
+   font-size: 16px;
+}

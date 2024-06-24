@@ -1,0 +1,55 @@
+﻿.personnel_opView .x-panelheader-body-el {
+   direction: rtl !important;
+   text-align: right !important;
+}
+.personnel_opView .x-paneltitle.x-horizontal.x-text-align-left .x-body-el {
+   margin-right: 8px !important;
+}
+.personnel_opView .x-textfield .x-underline-el {
+   height: 1px !important;
+   background-color: #42b39c !important;
+}
+.personnel_opView .x-textfield .x-input-el {
+   text-align: right !important;
+   font-size: 16px;
+}
+.personnel_opView .x-textfield.x-label-align-placeholder .x-label-el {
+   direction: rtl !important;
+   text-align: right !important;
+   font-size: 14px;
+}
+.personnel_opView .x-trigger .x-icon-el:before {
+   margin-right: 800px;
+}
+.personnel_opView #ext-button-4 {
+   color: #fff !important;
+   background-color: #00ae9a !important;
+   margin: 4px !important;
+}
+.personnel_opView #ext-button-3 {
+   color: #fff !important;
+   background-color: #808080 !important;
+   margin: 4px !important;
+}
+.personnel_opView .x-field.x-required > .x-label-el:after {
+   font-size: 14px;
+   font-family: 'Material Icons';
+   color: red;
+   text-align: right;
+   direction: rtl;
+   float: right;
+}
+.personnel_opView .x-dialogheader {
+   background-color: #66BB6A !important;
+}
+.personnel_opView .x-dialogtitle
+{
+   content: 'close';
+   font-family: 'Material Icons';
+   color: #ffffffa8;
+}
+.personnel_opView .x-tool-type-close:before {
+   content: 'close';
+   font-family: 'Material Icons';
+   color: #ffffffa8;
+}

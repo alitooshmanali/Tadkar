@@ -1,0 +1,18 @@
+{
+  "leaf": false,
+  "children": [
+    {
+      "text": "Personnel",
+      "iconCls": "x-fa fa-table",
+      "xtype": "personnelview",
+      "leaf": true
+    },
+    {
+      "text": "Add Personnel  ",
+      "iconCls": "x-fa fa-plus",
+      "xtype": "popup",
+      "leaf": true
+    }
+
+  ]
+}
